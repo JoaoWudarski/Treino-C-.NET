@@ -1,0 +1,13 @@
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\bin\Debug\netcoreapp3.1\revisao.exe
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\bin\Debug\netcoreapp3.1\revisao.deps.json
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\bin\Debug\netcoreapp3.1\revisao.runtimeconfig.json
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\bin\Debug\netcoreapp3.1\revisao.runtimeconfig.dev.json
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\bin\Debug\netcoreapp3.1\revisao.dll
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\bin\Debug\netcoreapp3.1\revisao.pdb
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\obj\Debug\netcoreapp3.1\revisao.csprojAssemblyReference.cache
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\obj\Debug\netcoreapp3.1\revisao.AssemblyInfoInputs.cache
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\obj\Debug\netcoreapp3.1\revisao.AssemblyInfo.cs
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\obj\Debug\netcoreapp3.1\revisao.csproj.CoreCompileInputs.cache
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\obj\Debug\netcoreapp3.1\revisao.dll
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\obj\Debug\netcoreapp3.1\revisao.pdb
+C:\Users\joaow\Desktop\Aulas.Net\testeDotnet\revisao\obj\Debug\netcoreapp3.1\revisao.genruntimeconfig.cache
